@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "sksocial",
-    "slug": "snack-61699c04-eb52-4afd-931b-bbad54c36144",
+    "slug": "snack-61699c04-eb52-4afd-931b",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -13,18 +13,20 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.sksocial.guiglo"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
+      "package": "com.sksocial.guiglo",
       "edgeToEdgeEnabled": true
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "description": "Mon reseau social comme Facebook cree a Guiglo - SK SOCIAL 2026"
+    "description": "Mon reseau social comme Facebook pour Guiglo"
   }
 }
