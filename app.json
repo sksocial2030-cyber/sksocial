@@ -27,11 +27,9 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "description": "Mon reseau social local",
-    "owner": "sksocial2030-cyber",
     "extra": {
       "eas": {
-                    "projectId":"4253bbea-9f72-44ed-bc79-0410c40fdf8d"
+        "projectId": "4253bbea-9f72-44ed-bc79-0410c40fd8fd"
       }
     }
   }
