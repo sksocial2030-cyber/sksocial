@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "sksocial",
-    "slug": "snack-61699c04-eb52-4afd-931b",
+    "name": "SK SOCIAL - Le Facebook de Guiglo 2026",
+    "slug": "sk-social-guiglo-2026",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -14,19 +14,25 @@
     },
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.sksocial.guiglo"
+      "bundleIdentifier": "com.sksocial.guiglo2026"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.sksocial.guiglo",
+      "package": "com.sksocial.guiglo2026",
       "edgeToEdgeEnabled": true
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "description": "Mon reseau social comme Facebook pour Guiglo"
+    "description": "Mon reseau social local",
+    "owner": "sksocial2030-cyber",
+    "extra": {
+      "eas": {
+        "projectId": "61699c04-eb52-4afd-8e12-34a5b6c7d8e9"
+      }
+    }
   }
 }
